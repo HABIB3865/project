@@ -1,0 +1,10 @@
+.bg-login {
+  padding-top: 40px;
+  margin-left: 26px;
+}
+#bgne{
+	background-repeat: no-repeat;
+}
+#bt_login{
+	border-radius: 20px!important;
+}
